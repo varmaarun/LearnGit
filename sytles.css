@@ -1,0 +1,37 @@
+
+p{
+    color: orange;
+    background-color: blueviolet;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    line-height: 30px;
+    letter-spacing: 2px;
+    column-count: 3;
+
+}
+h1{
+    color: fuchsia;
+    text-align: left;
+    line-height: 30px;
+}
+
+ul{
+    /* border-width: 5px; 
+    border-style: solid;
+    border-color: crimson; */
+    border:4px solid crimson
+
+
+}
+
+li{
+    list-style-type: circle;
+    /* text-shadow: 2px 2px greenyellow; */
+    text-shadow: 2px 2px #dfd8d8;
+
+
+}
+
+
